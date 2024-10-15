@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d766df1985ab0f54db8da09b02f20a74, type: 3}
+  m_Name: SpawnPatternSO_Vertical
+  m_EditorClassIdentifier: 
+  Positions:
+  - {x: 0, y: -1}
+  - {x: 0, y: -2}
+  - {x: 0, y: -3}
+  - {x: 0, y: -4}
+  - {x: 0, y: -5}
+  - {x: 0, y: -6}
+  - {x: 0, y: -7}
+  - {x: 0, y: -8}
+  - {x: 0, y: -9}
+  BubbleSOs:
+  - {fileID: 11400000, guid: d652872cab3c85f4aaf7d08d0bb98e0f, type: 2}
+  - {fileID: 11400000, guid: 18f0b0d0af0b6054cb45370bae0698e8, type: 2}
+  - {fileID: 11400000, guid: 14669d707b17cce46842b22c007ce69a, type: 2}
+  - {fileID: 11400000, guid: b4960bdb6ceabf44c8618b80294c3fd8, type: 2}
+  ReversePosition: 0

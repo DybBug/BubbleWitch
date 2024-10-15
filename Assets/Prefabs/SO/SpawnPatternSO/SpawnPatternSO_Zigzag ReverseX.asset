@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: d766df1985ab0f54db8da09b02f20a74, type: 3}
+  m_Name: SpawnPatternSO_Zigzag ReverseX
+  m_EditorClassIdentifier: 
+  Positions:
+  - {x: -1, y: 0}
+  - {x: -2, y: 0}
+  - {x: -3, y: -1}
+  - {x: -2, y: -2}
+  - {x: -1, y: -2}
+  - {x: 0, y: -2}
+  - {x: 1, y: -2}
+  - {x: 1, y: -3}
+  - {x: 1, y: -4}
+  - {x: 0, y: -4}
+  - {x: -1, y: -4}
+  - {x: -2, y: -4}
+  - {x: -3, y: -4}
+  - {x: -3, y: -5}
+  - {x: -2, y: -6}
+  - {x: -1, y: -6}
+  - {x: 0, y: -6}
+  BubbleSOs:
+  - {fileID: 11400000, guid: 9ba469bc1969f8147a361652fce507c8, type: 2}
+  - {fileID: 11400000, guid: c337326d9eddf954cb576af73ef6f387, type: 2}
+  - {fileID: 11400000, guid: 59ba27dee350828408f9db9bc5700cf9, type: 2}
+  - {fileID: 11400000, guid: ddf8bb68cc52ff84aac10112e3983b1a, type: 2}
+  - {fileID: 11400000, guid: 805c118504a6f3c41aecdb2f3ace77e7, type: 2}
+  - {fileID: 11400000, guid: 8e9b267980e28884c82dd95f61172d40, type: 2}
+  - {fileID: 11400000, guid: 320590ef7aa44cf41b85a953eb4d8919, type: 2}
+  ReversePosition: 1

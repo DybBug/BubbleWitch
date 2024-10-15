@@ -1,0 +1,479 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7F925149-A498-FC8C-E990-02B9BAC09427}|Assembly-CSharp.csproj|C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\assets\\scripts\\bubble\\bubblestate\\bubblestate_drop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F925149-A498-FC8C-E990-02B9BAC09427}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bubble\\bubblestate\\bubblestate_drop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F925149-A498-FC8C-E990-02B9BAC09427}|Assembly-CSharp.csproj|C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\assets\\scripts\\scriptableobject\\bubbleabilityso\\bubbleabilityso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F925149-A498-FC8C-E990-02B9BAC09427}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptableobject\\bubbleabilityso\\bubbleabilityso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F925149-A498-FC8C-E990-02B9BAC09427}|Assembly-CSharp.csproj|c:\\users\\songg\\documents\\unity\\bubblewitch\\assets\\scripts\\system\\bubblesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F925149-A498-FC8C-E990-02B9BAC09427}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\system\\bubblesystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F925149-A498-FC8C-E990-02B9BAC09427}|Assembly-CSharp.csproj|C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\assets\\scripts\\system\\bubblesystemstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F925149-A498-FC8C-E990-02B9BAC09427}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\system\\bubblesystemstate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F925149-A498-FC8C-E990-02B9BAC09427}|Assembly-CSharp.csproj|C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\assets\\scripts\\bubble\\spawner\\bubblespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F925149-A498-FC8C-E990-02B9BAC09427}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bubble\\spawner\\bubblespawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F925149-A498-FC8C-E990-02B9BAC09427}|Assembly-CSharp.csproj|C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\assets\\scripts\\scriptableobject\\bubbleabilityso\\bombabilityso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F925149-A498-FC8C-E990-02B9BAC09427}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptableobject\\bubbleabilityso\\bombabilityso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F925149-A498-FC8C-E990-02B9BAC09427}|Assembly-CSharp.csproj|C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\assets\\scripts\\bubble\\bubble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F925149-A498-FC8C-E990-02B9BAC09427}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bubble\\bubble.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F925149-A498-FC8C-E990-02B9BAC09427}|Assembly-CSharp.csproj|C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\assets\\scripts\\scriptableobject\\bubbleabilityso\\bubbleso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F925149-A498-FC8C-E990-02B9BAC09427}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptableobject\\bubbleabilityso\\bubbleso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F925149-A498-FC8C-E990-02B9BAC09427}|Assembly-CSharp.csproj|C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\assets\\scripts\\bubble\\bubblestate\\bubblestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F925149-A498-FC8C-E990-02B9BAC09427}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bubble\\bubblestate\\bubblestate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F925149-A498-FC8C-E990-02B9BAC09427}|Assembly-CSharp.csproj|C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\assets\\scripts\\bubble\\bubblestate\\bubblestate_burst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F925149-A498-FC8C-E990-02B9BAC09427}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bubble\\bubblestate\\bubblestate_burst.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F925149-A498-FC8C-E990-02B9BAC09427}|Assembly-CSharp.csproj|C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\assets\\scripts\\bubble\\bubblestate\\bubblestate_idle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F925149-A498-FC8C-E990-02B9BAC09427}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bubble\\bubblestate\\bubblestate_idle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F925149-A498-FC8C-E990-02B9BAC09427}|Assembly-CSharp.csproj|C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\assets\\scripts\\bubble\\bubblestate\\bubblestate_move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F925149-A498-FC8C-E990-02B9BAC09427}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bubble\\bubblestate\\bubblestate_move.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F925149-A498-FC8C-E990-02B9BAC09427}|Assembly-CSharp.csproj|C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\assets\\scripts\\scriptableobject\\spawnpatternso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F925149-A498-FC8C-E990-02B9BAC09427}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptableobject\\spawnpatternso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F925149-A498-FC8C-E990-02B9BAC09427}|Assembly-CSharp.csproj|C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\assets\\scripts\\startbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F925149-A498-FC8C-E990-02B9BAC09427}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\startbutton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F925149-A498-FC8C-E990-02B9BAC09427}|Assembly-CSharp.csproj|C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\assets\\scripts\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F925149-A498-FC8C-E990-02B9BAC09427}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\map.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F925149-A498-FC8C-E990-02B9BAC09427}|Assembly-CSharp.csproj|C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\assets\\scripts\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F925149-A498-FC8C-E990-02B9BAC09427}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\helper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F925149-A498-FC8C-E990-02B9BAC09427}|Assembly-CSharp.csproj|C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\assets\\scripts\\constant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F925149-A498-FC8C-E990-02B9BAC09427}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\constant.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F925149-A498-FC8C-E990-02B9BAC09427}|Assembly-CSharp.csproj|C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\assets\\scripts\\bubbletable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F925149-A498-FC8C-E990-02B9BAC09427}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bubbletable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F925149-A498-FC8C-E990-02B9BAC09427}|Assembly-CSharp.csproj|C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\assets\\scripts\\bubblepool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F925149-A498-FC8C-E990-02B9BAC09427}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bubblepool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7F925149-A498-FC8C-E990-02B9BAC09427}|Assembly-CSharp.csproj|C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\assets\\scripts\\scriptableobject\\fairyabilityso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7F925149-A498-FC8C-E990-02B9BAC09427}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scriptableobject\\fairyabilityso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\Assets\\Scripts\\Boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Boss.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\Assets\\Scripts\\BubbleDeadZone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\BubbleDeadZone.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\Assets\\Scripts\\BubbleMagazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\BubbleMagazine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\Assets\\Scripts\\BubbleShooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\BubbleShooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\Assets\\Scripts\\DropPoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\DropPoint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\Assets\\Scripts\\BubbleMagazineView.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\BubbleMagazineView.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 84,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BubbleAbilitySO.cs",
+              "DocumentMoniker": "C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\Assets\\Scripts\\ScriptableObject\\BubbleAbilitySO\\BubbleAbilitySO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptableObject\\BubbleAbilitySO\\BubbleAbilitySO.cs",
+              "ToolTip": "C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\Assets\\Scripts\\ScriptableObject\\BubbleAbilitySO\\BubbleAbilitySO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScriptableObject\\BubbleAbilitySO\\BubbleAbilitySO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T23:27:40.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "BubbleState.cs",
+              "DocumentMoniker": "C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\Assets\\Scripts\\Bubble\\BubbleState\\BubbleState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bubble\\BubbleState\\BubbleState.cs",
+              "ToolTip": "C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\Assets\\Scripts\\Bubble\\BubbleState\\BubbleState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bubble\\BubbleState\\BubbleState.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAIA5wCMAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T08:25:24.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BubbleState_Burst.cs",
+              "DocumentMoniker": "C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\Assets\\Scripts\\Bubble\\BubbleState\\BubbleState_Burst.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bubble\\BubbleState\\BubbleState_Burst.cs",
+              "ToolTip": "C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\Assets\\Scripts\\Bubble\\BubbleState\\BubbleState_Burst.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bubble\\BubbleState\\BubbleState_Burst.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T08:25:05.726Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BubbleState_Drop.cs",
+              "DocumentMoniker": "C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\Assets\\Scripts\\Bubble\\BubbleState\\BubbleState_Drop.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bubble\\BubbleState\\BubbleState_Drop.cs",
+              "ToolTip": "C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\Assets\\Scripts\\Bubble\\BubbleState\\BubbleState_Drop.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bubble\\BubbleState\\BubbleState_Drop.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T22:44:16.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BubbleSpawner.cs",
+              "DocumentMoniker": "C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\Assets\\Scripts\\Bubble\\Spawner\\BubbleSpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bubble\\Spawner\\BubbleSpawner.cs",
+              "ToolTip": "C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\Assets\\Scripts\\Bubble\\Spawner\\BubbleSpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bubble\\Spawner\\BubbleSpawner.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAA4wCgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T23:27:32.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Boss.cs",
+              "DocumentMoniker": "C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\Assets\\Scripts\\Boss.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Boss.cs",
+              "ToolTip": "C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\Assets\\Scripts\\Boss.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Boss.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T23:27:48.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BombAbilitySO.cs",
+              "DocumentMoniker": "C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\Assets\\Scripts\\ScriptableObject\\BubbleAbilitySO\\BombAbilitySO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptableObject\\BubbleAbilitySO\\BombAbilitySO.cs",
+              "ToolTip": "C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\Assets\\Scripts\\ScriptableObject\\BubbleAbilitySO\\BombAbilitySO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScriptableObject\\BubbleAbilitySO\\BombAbilitySO.cs",
+              "ViewState": "AgIAAAIAAAAgK55qYrgmwA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T23:27:37.436Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BubbleState_Idle.cs",
+              "DocumentMoniker": "C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\Assets\\Scripts\\Bubble\\BubbleState\\BubbleState_Idle.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bubble\\BubbleState\\BubbleState_Idle.cs",
+              "ToolTip": "C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\Assets\\Scripts\\Bubble\\BubbleState\\BubbleState_Idle.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bubble\\BubbleState\\BubbleState_Idle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T23:27:28.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "BubbleState_Move.cs",
+              "DocumentMoniker": "C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\Assets\\Scripts\\Bubble\\BubbleState\\BubbleState_Move.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bubble\\BubbleState\\BubbleState_Move.cs",
+              "ToolTip": "C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\Assets\\Scripts\\Bubble\\BubbleState\\BubbleState_Move.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bubble\\BubbleState\\BubbleState_Move.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAEwCwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T22:31:08.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BubbleSO.cs",
+              "DocumentMoniker": "C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\Assets\\Scripts\\ScriptableObject\\BubbleAbilitySO\\BubbleSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptableObject\\BubbleAbilitySO\\BubbleSO.cs",
+              "ToolTip": "C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\Assets\\Scripts\\ScriptableObject\\BubbleAbilitySO\\BubbleSO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScriptableObject\\BubbleAbilitySO\\BubbleSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAQAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T23:27:42.222Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "BubbleShooter.cs",
+              "DocumentMoniker": "C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\Assets\\Scripts\\BubbleShooter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BubbleShooter.cs",
+              "ToolTip": "C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\Assets\\Scripts\\BubbleShooter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BubbleShooter.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwCAAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T18:20:05.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "BubbleMagazine.cs",
+              "DocumentMoniker": "C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\Assets\\Scripts\\BubbleMagazine.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BubbleMagazine.cs",
+              "ToolTip": "C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\Assets\\Scripts\\BubbleMagazine.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BubbleMagazine.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T23:27:55.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BubblePool.cs",
+              "DocumentMoniker": "C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\Assets\\Scripts\\BubblePool.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BubblePool.cs",
+              "ToolTip": "C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\Assets\\Scripts\\BubblePool.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BubblePool.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T23:27:59.579Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "SpawnPatternSO.cs",
+              "DocumentMoniker": "C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\Assets\\Scripts\\ScriptableObject\\SpawnPatternSO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptableObject\\SpawnPatternSO.cs",
+              "ToolTip": "C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\Assets\\Scripts\\ScriptableObject\\SpawnPatternSO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScriptableObject\\SpawnPatternSO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T23:27:47.083Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "BubbleMagazineView.cs",
+              "DocumentMoniker": "C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\Assets\\Scripts\\BubbleMagazineView.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BubbleMagazineView.cs",
+              "ToolTip": "C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\Assets\\Scripts\\BubbleMagazineView.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BubbleMagazineView.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC4AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T23:27:57.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Constant.cs",
+              "DocumentMoniker": "C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\Assets\\Scripts\\Constant.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Constant.cs",
+              "ToolTip": "C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\Assets\\Scripts\\Constant.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Constant.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T23:28:06.665Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Helper.cs",
+              "DocumentMoniker": "C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\Assets\\Scripts\\Helper.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Helper.cs",
+              "ToolTip": "C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\Assets\\Scripts\\Helper.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Helper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T23:28:09.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Map.cs",
+              "DocumentMoniker": "C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\Assets\\Scripts\\Map.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Map.cs",
+              "ToolTip": "C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\Assets\\Scripts\\Map.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Map.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvyAAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T23:28:11.398Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "BubbleDeadZone.cs",
+              "DocumentMoniker": "C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\Assets\\Scripts\\BubbleDeadZone.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BubbleDeadZone.cs",
+              "ToolTip": "C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\Assets\\Scripts\\BubbleDeadZone.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BubbleDeadZone.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T23:27:53.756Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "StartButton.cs",
+              "DocumentMoniker": "C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\Assets\\Scripts\\StartButton.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\StartButton.cs",
+              "ToolTip": "C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\Assets\\Scripts\\StartButton.cs",
+              "RelativeToolTip": "Assets\\Scripts\\StartButton.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T22:48:20.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "DropPoint.cs",
+              "DocumentMoniker": "C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\Assets\\Scripts\\DropPoint.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\DropPoint.cs",
+              "ToolTip": "C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\Assets\\Scripts\\DropPoint.cs",
+              "RelativeToolTip": "Assets\\Scripts\\DropPoint.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T22:31:33.784Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BubbleTable.cs",
+              "DocumentMoniker": "C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\Assets\\Scripts\\BubbleTable.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BubbleTable.cs",
+              "ToolTip": "C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\Assets\\Scripts\\BubbleTable.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BubbleTable.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAmwDoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T23:03:34.724Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "FairyAbilitySO.cs",
+              "DocumentMoniker": "C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\Assets\\Scripts\\ScriptableObject\\FairyAbilitySO.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScriptableObject\\FairyAbilitySO.cs",
+              "ToolTip": "C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\Assets\\Scripts\\ScriptableObject\\FairyAbilitySO.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScriptableObject\\FairyAbilitySO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T23:27:45.116Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 164,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Bubble.cs",
+              "DocumentMoniker": "C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\Assets\\Scripts\\Bubble\\Bubble.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bubble\\Bubble.cs",
+              "ToolTip": "C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\Assets\\Scripts\\Bubble\\Bubble.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bubble\\Bubble.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T18:34:26.223Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BubbleSystemState.cs",
+              "DocumentMoniker": "C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\Assets\\Scripts\\System\\BubbleSystemState.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\System\\BubbleSystemState.cs",
+              "ToolTip": "C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\Assets\\Scripts\\System\\BubbleSystemState.cs",
+              "RelativeToolTip": "Assets\\Scripts\\System\\BubbleSystemState.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T08:03:17.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BubbleSystem.cs",
+              "DocumentMoniker": "C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\Assets\\Scripts\\System\\BubbleSystem.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\System\\BubbleSystem.cs",
+              "ToolTip": "C:\\Users\\songg\\Documents\\Unity\\BubbleWitch\\Assets\\Scripts\\System\\BubbleSystem.cs",
+              "RelativeToolTip": "Assets\\Scripts\\System\\BubbleSystem.cs",
+              "ViewState": "AgIAAPwAAAAAAAAAAAAEwHoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-14T18:19:58.372Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 36,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
